@@ -1,4 +1,4 @@
-#Naive approach
+
 def max_prod_naive(arr):
     product = 0
     for i in range(len(arr)):
